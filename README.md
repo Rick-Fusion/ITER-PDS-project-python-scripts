@@ -1,4 +1,4 @@
-# Fusion Master Graduation Project — IDS Plotting & Analysis Scripts and simulation results
+# Fusion Master Graduation Project — IDS Plotting & Analysis Scripts and Simulation results
 
 ## About
 This repository contains Python scripts I created during my Fusion Master Graduation project on the **ITER Pulse Design Simulator**.  
