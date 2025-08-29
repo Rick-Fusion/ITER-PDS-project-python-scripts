@@ -1,0 +1,1 @@
+This directory contains analysis scripts that are made after my Master graduation project. The goal is to build scripts that are relevant for the comparison of simulation result of the PDS components with the DINA cases.
